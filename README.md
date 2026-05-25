@@ -116,7 +116,7 @@
 
 <p align="left">
 
-<a href="www.linkedin.com/in/ritik-singh-414a372b8">
+<a href="https://www.linkedin.com/in/ritik-singh-414a372b8/?skipRedirect=true">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
