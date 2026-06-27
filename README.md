@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;MERN+Stack+Developer;DSA+Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=;MERN+Stack+Developer;DSA+Problem+Solver;Future+Software+Engineer" />
 
 </div>
 
